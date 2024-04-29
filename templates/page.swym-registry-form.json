@@ -1,0 +1,12 @@
+{
+  "sections": {
+    "swym-registry": {
+      "type": "swym-registry-form",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "swym-registry"
+  ]
+}

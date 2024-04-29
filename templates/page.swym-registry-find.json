@@ -1,0 +1,12 @@
+{
+  "sections": {
+    "main": {
+      "type": "swym-registry-find",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "sections": {
+    "main": {
+      "type": "swym-registry-owner",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
