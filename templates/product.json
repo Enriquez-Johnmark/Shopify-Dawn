@@ -50,7 +50,7 @@
             "share_label": "Share"
           }
         },
-        "trustreviews_reviews_widget_DWYpLW": {
+        "trustreviews_reviews_widget_QWAkPR": {
           "type": "shopify:\/\/apps\/trustreviews\/blocks\/reviews_widget\/56d0fe1b-e701-4cff-8f84-466a26e09adb",
           "settings": {
             "product": "{{product}}"
@@ -66,7 +66,7 @@
         "buy_buttons",
         "description",
         "share",
-        "trustreviews_reviews_widget_DWYpLW"
+        "trustreviews_reviews_widget_QWAkPR"
       ],
       "settings": {
         "enable_sticky_info": true,
