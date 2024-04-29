@@ -50,19 +50,32 @@
             "share_label": "Share"
           }
         },
-        "trustreviews_reviews_widget_QWAkPR": {
-          "type": "shopify:\/\/apps\/trustreviews\/blocks\/reviews_widget\/56d0fe1b-e701-4cff-8f84-466a26e09adb",
+        "swym_gift_lists_and_registries_swym_registry_add_button_8gB66i": {
+          "type": "shopify:\/\/apps\/swym-gift-lists-and-registries\/blocks\/swym-registry-add-button\/08b4c8ab-fc8b-4e5f-84b6-cc3c7d669113",
           "settings": {
-            "product": "{{product}}"
-          }
-        },
-        "trustreviews_star_rating_D9RqkD": {
-          "type": "shopify:\/\/apps\/trustreviews\/blocks\/star_rating\/56d0fe1b-e701-4cff-8f84-466a26e09adb",
-          "settings": {
-            "product": "{{product}}",
-            "hide_on_no_reviews": false,
-            "enable_jsonld": false,
-            "starsize": 16
+            "swym_registry_add_button_text_color": "#F1F1F1",
+            "swym_registry_add_button_background_color": "#0D2236",
+            "swym_registry_add_btn_border_color": "#0D2236",
+            "swym_registry_add_button_label": "Add To Registry",
+            "swym_registry_add_btn_font": 16,
+            "swym_registry_add_btn_border_radius": 2,
+            "swym_registry_add_btn_border_thickness": 1,
+            "swym_registry_add_btn_padding_horizontal": 1,
+            "swym_registry_add_btn_padding_vertical": 1.3,
+            "swym_registry_add_btn_width": 100,
+            "swym_registry_add_btn_align_text": "left",
+            "swym_registry_pdp_popup_text_color": "#000",
+            "swym_registry_pdp_popup_background_color": "#fff",
+            "swym_registry_popup_button_text_color": "#fff",
+            "swym_registry_popup_button_background_color": "#000",
+            "swym_registry_popup_btn_border_color": "#fff",
+            "swym_registry_pdp_popup_title_font": 24,
+            "swym_registry_select_regsistry_title": "Select Registry",
+            "swym_registry_create_registry_message": "Create your own gift registry of items you would like to have and share your list with family and friends",
+            "swym_registry_create_get_started": "Get Started",
+            "swym_registry_success_added_to": "Added to",
+            "swym_registry_success_view": "View",
+            "swym_registry_success_continue": "Continue Adding"
           }
         }
       },
@@ -75,8 +88,7 @@
         "buy_buttons",
         "description",
         "share",
-        "trustreviews_reviews_widget_QWAkPR",
-        "trustreviews_star_rating_D9RqkD"
+        "swym_gift_lists_and_registries_swym_registry_add_button_8gB66i"
       ],
       "settings": {
         "enable_sticky_info": true,
